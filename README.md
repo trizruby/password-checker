@@ -1,5 +1,5 @@
 # password-checker
-Verificador de força de senha desenvolvido em Python para avaliar a segurança das senhas.
+Verificador básico de força de senha desenvolvido em Python para avaliar a segurança das senhas.
 
 Este projeto é um verificador de força de senha desenvolvido em Python. Ele analisa uma senha e determina se ela é fraca, média ou forte com base no tamanho e na variedade de caracteres.
 
